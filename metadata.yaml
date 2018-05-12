@@ -1,0 +1,35 @@
+_repo: Evolution-of-Life-and-Formmeeting-of-the-Theosophical-Society-at-Adyar-Madras-1898_40224
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40224-h/images/cover.png
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Besant, Annie Wood
+    - Wood, Annie
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: ''
+gutenberg_issued: '2012-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life -- Origin'
+- !lcsh 'Evolution'
+- !lcsh 'Theosophy'
+- !lcc 'BP'
+tableOfContents: Ancient and modern science -- Functions of the Gods -- Evolution
+  of life -- Evolution of form.
+title: "Evolution of Life and Form\r\nFour lectures delivered at the twenty-third\
+  \ anniversary meeting of the Theosophical Society at Adyar, Madras, 1898"
+url: http://www.gutenberg.org/ebooks/40224
